@@ -52,6 +52,20 @@ If you only want to run the product, start with `motionLab_app/frontend` and `mo
 
 The main video-processing endpoint is exposed at `POST /pose/process-video`.
 
+## Poster
+<img width="744" height="964" alt="Screenshot 2026-02-17 155538" src="https://github.com/user-attachments/assets/785fd336-c8ae-405b-8295-3e9864eb865e" />
+
+# Web App
+<img width="1894" height="878" alt="Screenshot 2025-04-04 185500" src="https://github.com/user-attachments/assets/00743b19-64d1-4a0b-a9fa-38b0435920f9" />
+<img width="1882" height="876" alt="Screenshot 2025-04-04 190300" src="https://github.com/user-attachments/assets/00cba302-e6c0-4034-afd9-d66427d57592" />
+<img width="1885" height="873" alt="Screenshot 2025-04-04 184743" src="https://github.com/user-attachments/assets/45dfa6e1-c581-4184-83bc-2baa3e62b34a" />
+<img width="1873" height="884" alt="Screenshot 2025-04-04 192340" src="https://github.com/user-attachments/assets/2a3df571-39b9-468d-ae1e-fec833b39ad6" />
+<img width="1880" height="879" alt="Screenshot 2025-04-04 192254" src="https://github.com/user-attachments/assets/3cc9999e-4598-4bf3-b11f-0e935e727c8c" />
+
+# Blender
+<img width="1919" height="1020" alt="Screenshot 2025-04-04 185300" src="https://github.com/user-attachments/assets/c3071fa6-3538-43e0-bb18-4d0f2ebf6a81" />
+
+
 ## Prerequisites
 
 Make sure you have these installed before running the app:
@@ -123,4 +137,13 @@ Vite usually runs on `http://localhost:5173`.
 - Large ML and media dependencies are required for the backend pipeline.
 - Some folders in this repository are prototypes or experiments and are not required for the main app.
 - Generated files such as BVH outputs, avatars, and retargeted avatars are served by the backend.
+
+## Thesis
+[Thesis_Document_for_Character_Animation_from_Video.pdf](https://github.com/user-attachments/files/26327915/Thesis_Document_for_Character_Animation_from_Video.pdf)
+
+## Technical document
+[Technical_Document_for_Character_Animation_from_Video.pdf](https://github.com/user-attachments/files/26327917/Technical_Document_for_Character_Animation_from_Video.pdf)
+
+## Paper
+[Motion_detection__From_video_to_BVH.pdf](https://github.com/user-attachments/files/26327918/Motion_detection__From_video_to_BVH.pdf)
 
